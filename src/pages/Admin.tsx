@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Lock, Package, LogOut } from "lucide-react";
+import { Lock, Package, LogOut, ArrowLeft } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { supabase } from "@/integrations/supabase/client";
